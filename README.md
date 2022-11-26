@@ -1,2 +1,2 @@
-# README
+# Peter.jr
 Peter.jrチームのREADME
